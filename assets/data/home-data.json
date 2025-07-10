@@ -1,0 +1,38 @@
+[
+  {
+    "title": "About Us",
+    "image": "/assets/img/about_us.png",
+    "link": "/about",
+    "sort": 1
+  },
+  {
+    "title": "Projects",
+    "image": "/assets/img/projects.png",
+    "link": "/projects",
+    "sort": 2
+  },
+  {
+    "title": "Contact",
+    "image": "/assets/img/contact_2.png",
+    "link": "/contact",
+    "sort": 3
+  },
+  {
+    "title": "Services",
+    "image": "https://placehold.co/600x400?text=services+thumb",
+    "link": "#",
+    "sort": 4
+  },
+  {
+    "title": "Blog",
+    "image": "https://placehold.co/600x400?text=blog+thumb",
+    "link": "#",
+    "sort": 5
+  },
+  {
+    "title": "Team",
+    "image": "https://placehold.co/600x400?text=team+thumb",
+    "link": "#",
+    "sort": 6
+  }
+]

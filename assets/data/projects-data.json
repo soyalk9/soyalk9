@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "password-generator",
+    "title": "Strong Password Generator",
+    "image": "/assets/images/password_gen.jpg",
+    "description": "A web app that generates secure, customizable passwords with strength checking and clipboard support",
+    "link": "https://github.com/soyalk9/password-generator",
+    "tags": ["JavaScript" , "Web Development", "Security"],
+    "date": "10-7-2025",
+    "demo": "https://soyal.me/pages/password-generator.html",
+    "protected": false
+  },
+  {
+    "slug": "zeck", 
+    "title": "Zeck - Discord bot",
+    "image": "/assets/images/zeck_logo_1.jpg",
+    "description": "A mini portfolio built with responsive design principles.",
+"link": "https://github.com/soyalk9/zeck",
+    "tags": [ "Security","Discord", "Bot Development"],
+    "date": "05-07-2025",
+    "demo": "",
+    "protected": false
+  }
+]

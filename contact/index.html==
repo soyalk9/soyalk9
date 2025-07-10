@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link rel="icon" href="/assets/images/zeck_logo_1.jpg" type="image/x-icon" />
+  <title>Contact Us - Zeck</title>
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+ <nav class="navbar">
+    <div class="logo">Zec<span>K</span></div>
+    <ul class="nav-links desktop-nav">
+      <li><a href="/">Home</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/projects">Projects</a></li>
+      <li><a href="/contact" class="active">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main class="container contact-page">
+    <h1>Contact Us</h1>
+    <p class="contact-invite">We’re excited to hear from you! Reach out to discuss projects, partnerships, or just say hello.</p>
+    <form class="contact-form" action="mailto:contact@Zeck.com" method="post" enctype="text/plain">
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="email" name="email" placeholder="Your Email" required />
+      <textarea name="message" rows="6" placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+
+    <section class="extra-info">
+      <h3>Other ways to reach us</h3>
+      <p>Email: contact@Zeck.com</p>
+     <!-- <p>Phone: +1 (234) 567-8900</p> -->
+      <p>Follow us on social media: 
+        <a href="#" target="_blank">Twetter</a>, 
+        <a href="#" target="_blank">LinkedIn</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-graphic"></div>
+    <p>© 2025 Zeck. Crafted with precision and passion.</p>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>
